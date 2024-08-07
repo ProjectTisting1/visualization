@@ -2,7 +2,6 @@
     "name": "Shape and Color Visualization",
     "organization": "Your Organization",
     "description": "A visualization that links shapes and images to data and changes their color accordingly.",
-    "logoUrl": "https://projecttisting1.github.io/visualization/icon.png",
     "packageUrl": "https://projecttisting1.github.io/visualization",
     "supportUrl": "mailto:your-email@example.com",
     "devMode": false,
