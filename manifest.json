@@ -1,21 +1,22 @@
 {
-    "dataStudio": {
-        "visualization": {
-            "id": "your_visualization_id",
+    "name": "Shape and Color Visualization",
+    "organization": "Your Organization",
+    "description": "A visualization that links shapes and images to data and changes their color accordingly.",
+    "logoUrl": "https://projecttisting1.github.io/visualization/icon.png",
+    "packageUrl": "https://projecttisting1.github.io/visualization",
+    "supportUrl": "mailto:your-email@example.com",
+    "devMode": false,
+    "components": [
+        {
+            "id": "shape-color-viz",
             "name": "Shape and Color Visualization",
             "description": "A visualization that links shapes and images to data and changes their color accordingly.",
-            "icon": "https://projecttisting1.github.io/visualization/icon.png",
-            "authors": [
-                {
-                    "name": "Your Name",
-                    "email": "your-email@example.com"
-                }
-            ],
-            "resources": {
-                "js": ["https://projecttisting1.github.io/visualization/main.js"],
-                "css": ["https://projecttisting1.github.io/visualization/styles.css"],
-                "html": ["https://projecttisting1.github.io/visualization/index.html"]
+            "iconUrl": "https://projecttisting1.github.io/visualization/icon.png",
+            "resource": {
+                "js": "https://projecttisting1.github.io/visualization/main.js",
+                "config": "https://projecttisting1.github.io/visualization/viz-config.json",
+                "css": "https://projecttisting1.github.io/visualization/styles.css"
             }
         }
-    }
+    ]
 }
