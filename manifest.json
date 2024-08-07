@@ -1,15 +1,15 @@
 {
     "dataStudio": {
         "visualization": {
-            "id": "R34254345",
+            "id": "your_visualization_423342",
             "name": "Shape and Color Visualization",
             "description": "A visualization that links shapes and images to data and changes their color accordingly.",
-            "icon": "icon.png",
-            "authors": [{"name": "NAN", "email": "NAN@example.com"}],
+            "icon": "https://projecttisting1.github.io/visualization/icon.png",
+            "authors": [{"name": "Your Name", "email": "your-email@example.com"}],
             "resources": {
-                "js": ["main.js"],
-                "css": ["styles.css"],
-                "html": ["index.html"]
+                "js": ["https://projecttisting1.github.io/visualization/main.js"],
+                "css": ["https://projecttisting1.github.io/visualization/styles.css"],
+                "html": ["https://projecttisting1.github.io/visualization/index.html"]
             }
         }
     }
