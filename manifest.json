@@ -11,11 +11,11 @@
             "id": "",
             "name": "Shape and Color Visualization",
             "description": "A visualization that links shapes and images to data and changes their color accordingly.",
-            "iconUrl": "./icon.png",
+            "iconUrl": "gs://icon.png",
             "resource": {
-                "js": "./main.js",
-                "config": "./viz-config.json",
-                "css": "./styles.css"
+                "js": "gs://main.js",
+                "config": "gs://viz-config.json",
+                "css": "gs://styles.css"
             }
         }
     ]
