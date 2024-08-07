@@ -1,0 +1,16 @@
+{
+    "dataStudio": {
+        "visualization": {
+            "id": "R34254345",
+            "name": "Shape and Color Visualization",
+            "description": "A visualization that links shapes and images to data and changes their color accordingly.",
+            "icon": "icon.png",
+            "authors": [{"name": "NAN", "email": "NAN@example.com"}],
+            "resources": {
+                "js": ["main.js"],
+                "css": ["styles.css"],
+                "html": ["index.html"]
+            }
+        }
+    }
+}
