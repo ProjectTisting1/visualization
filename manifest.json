@@ -7,14 +7,13 @@
     "devMode": false,
     "components": [
         {
-            "id": "",
             "name": "Shape and Color Visualization",
             "description": "A visualization that links shapes and images to data and changes their color accordingly.",
-            "iconUrl": "gs://icon.png",
+            "iconUrl": "https://projecttisting1.github.io/visualization/icon.png",
             "resource": {
-                "js": "gs://main.js",
-                "config": "gs://viz-config.json",
-                "css": "gs://styles.css"
+                "js": "https://projecttisting1.github.io/visualization/main.js",
+                "config": "https://projecttisting1.github.io/visualization/viz-config.json",
+                "css": "https://projecttisting1.github.io/visualization/styles.css"
             }
         }
     ]
