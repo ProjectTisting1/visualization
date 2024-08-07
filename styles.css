@@ -1,0 +1,9 @@
+#viz-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+#data-circle {
+    fill: grey; /* Default color */
+}
